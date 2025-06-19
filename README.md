@@ -1,4 +1,4 @@
-# 🔊 Chuyển Đổi Văn Bản Thành Giọng Nói
+# 🔊 TEXT TO SPEECH
 
 Dự án này cung cấp một ứng dụng đơn giản để chuyển đổi văn bản thành giọng nói sử dụng Python cùng các thư viện **gTTS** và **playsound**. Ứng dụng có giao diện đồ họa thân thiện với người dùng, cho phép nhập văn bản và nghe âm thanh được tạo ra một cách dễ dàng.
 
